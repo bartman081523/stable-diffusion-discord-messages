@@ -8,6 +8,7 @@ stripped-content: messages in gzipped csv format, with only the "Content" column
 
 prompts-only: gzipped stripped prompts only in line-separation
 
+
 bash command to extract the archives:
 
 cd raw-messages
