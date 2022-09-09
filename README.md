@@ -8,6 +8,10 @@ stripped-content: messages in gzipped csv format, with only the "Content" column
 
 prompts-only: gzipped stripped prompts only in line-separation
 
+see this repo for concatenated and stripped only-prompts
+
+https://huggingface.co/datasets/bartman081523/stable-diffusion-discord-prompts
+
 
 bash command to extract the archives:
 
